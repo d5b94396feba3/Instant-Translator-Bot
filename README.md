@@ -9,11 +9,11 @@ Youtube link : https://www.youtube.com/watch?v=19ic_yRjY24
     <tr>
         <td align="center">
          <p>View 1</p>
-        <img src="assets/telebot1.png" alt="screenshot of font view 1" width="60%" height="40%"/>   
+        <img src="assets/telebot1.png" alt="screenshot of font view 1" width="60%" height="20%"/>   
         </td>
         <td align="center">
         <p>View 2</p>
-         <img src="assets/telebot2.png" alt="screenshot of font view 2" width="60%" height="40%"/>
+         <img src="assets/telebot2.png" alt="screenshot of font view 2" width="60%" height="20%"/>
         </td>
     </tr>
 </table>
